@@ -1,9 +1,9 @@
 {
-  "name": "symfony-cmf/symfony-cmf-dbal",
-  "description": "Meta repository to install dbal implementation of with doctrine/phpcr-dbal.",
+  "name": "symfony-cmf/symfony-cmf-jackrabbit",
+  "description": "Meta repository to install jackrabbit implementation of with doctrine/phpcr-jackrabbit.",
   "type": "library, metapackage",
   "require": {
-    "doctrine/phpcr-dbal": "^1.0",
+    "doctrine/phpcr-jackrabbit": "^1.0",
     "symfony-cmf/core-bundle": "^2.1",
     "symfony-cmf/content-bundle": "^2.1",
     "symfony-cmf/menu-bundle": "^2.2",
